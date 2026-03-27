@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌸 Building beautiful web experiences | 💻 Code • Create • Innovate | 🎀 Purple aesthetic lover
+  🌸 Building beautiful web experiences | 💻 Code • Create • Innovate 
 </p>
 
 ---
