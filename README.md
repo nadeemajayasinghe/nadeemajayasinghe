@@ -2,6 +2,10 @@
 <h1 align="center">💜 Hi, I'm Nadeema Jayasinghe ✨</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineering+Student;UI+Lover+💜;Always+Learning+New+Things&center=true&width=500&color=BA55D3">
+</p>
+
+<p align="center">
   🌸 Building beautiful web experiences | 💻 Code • Create • Innovate
 </p>
 
