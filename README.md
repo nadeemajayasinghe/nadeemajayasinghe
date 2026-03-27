@@ -25,14 +25,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nadeemajayasinghe&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -41,11 +33,10 @@
 
 ---
 
-
-## 🌸 Fun Animation
+## 🌸💕
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 </p>
 
 ---
