@@ -36,15 +36,7 @@
 ## 🌸💕
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ6ZWU2aWwzamY1eDkwaTQya21oMnB6dHBpdDUya3J4d2J1c2x0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGKcOu4bKzoHF6w/giphy.gif" width="320"/>
-</p>
-
----
-
-## 💜 Quote
-
-<p align="center">
-  <i>“Stay soft, stay strong, and keep building beautiful things ✨💜”</i>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ6ZWU2aWwzamY1eDkwaTQya21oMnB6dHBpdDUya3J4d2J1c2x0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGKcOu4bKzoHF6w/giphy.gif" width="520"/>
 </p>
 
 ---
