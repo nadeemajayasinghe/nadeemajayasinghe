@@ -17,14 +17,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadeemajayasinghe&show_icons=true&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -41,42 +33,14 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🔧 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-## 🖥️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-## ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
-</p>
-
-## 🧰 Tools & Utilities
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
-
-## 🤖 AI & Analytics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,tailwind,materialui,nodejs,express,spring,mongodb,mysql,postgres,git,docker,vscode,postman,figma" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadeemajayasinghe&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🌸 Fun Animation
 
@@ -100,10 +64,10 @@
   <a href="https://github.com/nadeemajayasinghe">
     <img src="https://img.shields.io/badge/GitHub-BA55D3?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/nadeemajayasinghe/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-BA55D3?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="nadeemajayasinghe75@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
